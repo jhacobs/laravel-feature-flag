@@ -6,9 +6,7 @@ Feature flags for a Laravel application
 
 This package can be installed via composer
 
-```bash
-  composer require jhacobs/laravel-feature-flag
-```
+//
 
 Publish the config file
 
